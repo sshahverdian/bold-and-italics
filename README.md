@@ -1,3 +1,3 @@
 # bold-and-italics
 **bold?**
-* * italics* *
+* *italics* *
